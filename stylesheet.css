@@ -1,0 +1,44 @@
+
+#h1 { 
+	text-align:Center;
+	font-family:sans-serif;
+}
+
+link: hover { 
+    background-color:blue;
+}
+
+#form {
+	text-align:Center;
+	font-family:"arial"
+	width: 100%;
+    padding: 18px 20px;
+    margin: 8px 0;
+    border: 6px solid black;
+    border-radius: 8px;
+}
+
+body {
+	font-family:"arial";
+}
+
+p {
+	font-family:"arial";
+}
+
+.list {
+	font-family:"arial";
+}
+
+#photos {
+	border-radius:50px;
+	box-shadow:5px 5px;
+	text-align:Center;
+}
+
+@media screen and (max-width: 600px) {
+    .nav {
+        float: none;
+        width: 100%;
+    }
+}
