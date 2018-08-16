@@ -1,10 +1,9 @@
 //*Number One*//
-prompt("Enter a number")
-var total=0;
-for(var i = 1; i < 6; i++) {
-	total = total + i;
+prompt("Enter A Number");
+var total = 0;
+for (var num = 1; num < 10; num++) {
+total = total + num;
 }
-
 console.log(total);
 
 
